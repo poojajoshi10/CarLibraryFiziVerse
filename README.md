@@ -40,7 +40,7 @@ npm --version
 
 3. **Run the Development Server**:
    ```bash
-   npm start
+   npm run start
    ```
 
    The application will start on `http://localhost:3000` by default. Open this URL in your browser to view the app.
